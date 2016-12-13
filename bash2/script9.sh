@@ -11,3 +11,4 @@ done;
 
 
   ## pokracznie, ale działa XD
+  ## dodać ładne echa
