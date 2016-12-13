@@ -8,3 +8,4 @@ else
   wynik=1
 fi
 echo "$n! wynosi $wynik"
+exit 0
