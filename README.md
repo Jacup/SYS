@@ -2,3 +2,4 @@
 elo
 
 ##KOLOKWIUM BASH 8 STYCZEN 2K17
+edit xd
