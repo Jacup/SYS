@@ -1,5 +1,5 @@
-##Repozytorium z zadaniami z systemów operacyjnych
+## Repozytorium z zadaniami z systemów operacyjnych
 elo
 
-##KOLOKWIUM BASH 8 STYCZEN 2K1
+## KOLOKWIUM BASH 8 STYCZEN 2K1
 sss
